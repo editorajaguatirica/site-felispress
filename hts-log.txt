@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 May 2020 20:53:36 at https://mobirise.com/extensions/depotamp/furniturestore.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mobirise.com/extensions/depotamp/furniturestore.html -O1 "C:\My Web Sites\felis" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:53:54	Warning: 	Moved Permanently for mobirise.com/robots.txt
+20:53:54	Warning: 	Redirected link is identical because of 'URL Hack' option: mobirise.com/robots.txt and https://mobirise.com/robots.txt
+20:53:54	Warning: 	Warning moved treated for mobirise.com/robots.txt (real one is https://mobirise.com/robots.txt)
+20:53:54	Warning: 	Moved Permanently for mobirise.com/extensions/depotamp/
+20:53:54	Warning: 	Redirected link is identical because of 'URL Hack' option: mobirise.com/extensions/depotamp/ and https://mobirise.com/extensions/depotamp/
+20:53:54	Warning: 	File has moved from mobirise.com/extensions/depotamp/ to https://mobirise.com/extensions/depotamp/
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 108 links scanned, 105 files written (8456442 bytes overall) [7725858 bytes received at 148574 bytes/sec], 949669 bytes transferred using HTTP compression in 32 files, ratio 14%, 7.2 requests per connection
+(No errors, 6 warnings, 0 messages)
